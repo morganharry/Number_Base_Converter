@@ -1,8 +1,4 @@
-This is the *Number Base Converter (Kotlin)* project I made myself.
+Project: Number Base Converter (Kotlin)
+https://hyperskill.org/projects/165/stages/859/implement
 
-
-<p>We’re all quite used to our good old decimal system of numerals. But let’s not forget that there are other ways to count! Whether we need to convert numbers from one system to another just for fun or to store large data more efficiently, a converter proves helpful. In this project, you will create your own tool that will help you convert numbers from one system to another.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/165?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/165</a>
-
-Here's the link to the project: https://hyperskill.org/projects/165
-
-Check out my profile: https://hyperskill.org/profile/340472422
+Conversion from one number system to another, incl. fractional numbers.
